@@ -63,18 +63,10 @@ The project uses simulated data that includes:
 - Adjust staffing schedules dynamically based on forecasted bookings
 
 ---
-
-## Future Work
-- Deploy a prototype of the online booking system using Flask or Django
-- Apply machine learning for patient visit prediction and resource planning
-- Integrate live dashboards for management monitoring
-
----
-
 ## Author
 **Mena Mensiwa Kumi**  
-Data Analyst | Problem Solver | Lifelong Learner  
-📫 Connect with me on [LinkedIn](www.linkedin.com/in/mena-kumi-)
+Data Analyst 
+📫 Connect with me on www.linkedin.com/in/mena-kumi-
 
 ---
 
