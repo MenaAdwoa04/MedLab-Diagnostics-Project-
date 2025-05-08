@@ -69,9 +69,10 @@ The project uses simulated data that includes:
 ## Author
 **Mena Mensiwa Kumi**  
 Data Analyst 
-📫 Connect with me on www.linkedin.com/in/mena-kumi-
-Email: adwoamenaj@gmail.com 
-Website: https://mena-mensiwa-kumi.zarlasites.com/ 
+📫 Connect with me on 
+- **linkedIn:** www.linkedin.com/in/mena-kumi-
+- **Email:** adwoamenaj@gmail.com 
+- **Website:** https://mena-mensiwa-kumi.zarlasites.com/ 
 
 ---
 
