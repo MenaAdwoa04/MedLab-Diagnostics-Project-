@@ -1,3 +1,6 @@
+<p align="center">
+  <img src= "https://i.pinimg.com/736x/aa/9a/44/aa9a44e1945739d93b676f43a8826049.jpg" alt="Welcome Banner" width="100%" height="300px" />
+</p>
 
 # MedLab Diagnostics 🧪📊
 
